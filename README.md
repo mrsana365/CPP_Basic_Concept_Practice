@@ -1,3 +1,3 @@
-# C++ Basic Concept & Practice
-This is c++ Tutorial of PW 
+# Git Repo
+This is repo for tutorial if git for learning
 
