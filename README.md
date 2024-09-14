@@ -1,3 +1,3 @@
 # Git Repo
-This is repo for tutorial if git for learning
+This is repo for tutorial git for learning
 
