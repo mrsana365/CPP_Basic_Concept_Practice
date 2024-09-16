@@ -4,5 +4,5 @@ This is file for  pushing on GitHub
 //------------ work  no 2 -----------
 we work in gfile-01 in it for  some code
 
-//--------- for fetching--------------
-This is for work of fetching command 
+//--------- for fetch -------------
+This is for git fectch command to demo
