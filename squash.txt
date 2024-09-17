@@ -1,0 +1,2 @@
+//------------ for sqaush --------------
+This section is for git squash command demo 
