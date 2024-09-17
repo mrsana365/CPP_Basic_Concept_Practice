@@ -1,2 +1,5 @@
 //------------ for sqaush --------------
-This section is for git squash command demo 
+This section is for git squash command demo 1
+
+//------------ for sqaush --------------
+This section is for git squash command demo 2
