@@ -10,7 +10,3 @@ This section is for git cherry-pick for update 2
 
 
 
-//---------  For git cherry-pick  -------------------
-
-This section is for git cherry-pick for feature 4
->>>>>>> 81a7075 ( add f 4 in cherry.txt)
